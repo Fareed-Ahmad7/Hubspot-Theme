@@ -1,0 +1,12 @@
+defaultPortal: Theme
+portals:
+  - name: Theme
+    portalId: 21233527
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CIuok7_kLxIIAA0AAAAAAAwY9_6PCiDX_qwNKO7pDDIUhu1NzdVj3wV0rbs-ONl-Lh4H8ag6KAAABEEAAAB4AAAAAAAAAAAAAAAAAAAABAAAwAcAAAAAPAAAAAAAAGBCFMRPwzfrhvEYIqJ-uzSPUWOwF-YNSgNuYTFSAFoA
+        expiresAt: '2022-01-11T06:48:05.904Z'
+    personalAccessKey: >-
+      CiQwZDM0ZWM2Yi1mNjk2LTQ1MDMtOGNiNi02ZWNkZjVkMjAyMTAQ9_6PChjX_qwNKhkABeaRglf3pbWLQrNtu2GaM8ySYA6FegelSgNuYTE
